@@ -55,7 +55,7 @@ O Devedores.xlsx deve ter as abas Perfil_Cliente e Titulo_Vencido.
 Conceitual:
 <img width="787" height="311" alt="conceitual" src="https://github.com/user-attachments/assets/b4b07d91-7d2f-454b-bbc8-226f11047c3e" />
 
-Lógico:
+✅Lógico:
 <img width="1105" height="560" alt="logico" src="https://github.com/user-attachments/assets/92d08af2-6b37-4268-9254-b551ddd631ea" />
 
 
@@ -63,10 +63,10 @@ Lógico:
 Dados de Clientes:
 <img width="892" height="255" alt="Perfil_Cliente-regis" src="https://github.com/user-attachments/assets/2dbf9ca9-e30d-46fb-86e8-d2bcab1830cd" />
 
-Títulos Vencidos:
+Títulos Vencidos:<br>
 <img width="682" height="188" alt="Titulo_Vencido-regis" src="https://github.com/user-attachments/assets/cf2b2185-009a-4995-bdd5-4e3855794fee" />
 
-Histórico de Cobrança:
+Histórico de Cobrança:<br>
 <img width="712" height="302" alt="registroCobranca" src="https://github.com/user-attachments/assets/706c2580-4ddf-41b6-90ad-6ffb63ba7b61" />
 
 
